@@ -1,0 +1,40 @@
+C:\Users\d2005\OneDrive\Рабочий стол\Olympic_heroes\Olympic_heroes\bin\Debug\Olympic_heroes.exe.config
+C:\Users\d2005\OneDrive\Рабочий стол\Olympic_heroes\Olympic_heroes\bin\Debug\Olympic_heroes.exe
+C:\Users\d2005\OneDrive\Рабочий стол\Olympic_heroes\Olympic_heroes\bin\Debug\Olympic_heroes.pdb
+C:\Users\d2005\OneDrive\Рабочий стол\Olympic_heroes\Olympic_heroes\obj\Debug\Olympic_heroes.csproj.AssemblyReference.cache
+C:\Users\d2005\OneDrive\Рабочий стол\Olympic_heroes\Olympic_heroes\obj\Debug\Olympic_heroes.Form1.resources
+C:\Users\d2005\OneDrive\Рабочий стол\Olympic_heroes\Olympic_heroes\obj\Debug\Olympic_heroes.Properties.Resources.resources
+C:\Users\d2005\OneDrive\Рабочий стол\Olympic_heroes\Olympic_heroes\obj\Debug\Olympic_heroes.csproj.GenerateResource.cache
+C:\Users\d2005\OneDrive\Рабочий стол\Olympic_heroes\Olympic_heroes\obj\Debug\Olympic_heroes.csproj.CoreCompileInputs.cache
+C:\Users\d2005\OneDrive\Рабочий стол\Olympic_heroes\Olympic_heroes\obj\Debug\Olympic_heroes.exe
+C:\Users\d2005\OneDrive\Рабочий стол\Olympic_heroes\Olympic_heroes\obj\Debug\Olympic_heroes.pdb
+C:\Users\d2005\OneDrive\Рабочий стол\Olympic_heroes\Olympic_heroes\obj\Debug\Olympic_heroes.Form2.resources
+C:\Users\d2005\OneDrive\Рабочий стол\Olympic_heroes\Olympic_heroes\obj\Debug\Olympic_heroes.Form3.resources
+E:\Всё что можно - здесь\Программирование\Olympic_heroes\Olympic_heroes\obj\Debug\Olympic_heroes.csproj.AssemblyReference.cache
+E:\Всё что можно - здесь\Программирование\Olympic_heroes\Olympic_heroes\obj\Debug\Olympic_heroes.Form1.resources
+E:\Всё что можно - здесь\Программирование\Olympic_heroes\Olympic_heroes\obj\Debug\Olympic_heroes.Form2.resources
+E:\Всё что можно - здесь\Программирование\Olympic_heroes\Olympic_heroes\obj\Debug\Olympic_heroes.Form3.resources
+E:\Всё что можно - здесь\Программирование\Olympic_heroes\Olympic_heroes\obj\Debug\Olympic_heroes.Properties.Resources.resources
+E:\Всё что можно - здесь\Программирование\Olympic_heroes\Olympic_heroes\obj\Debug\Olympic_heroes.csproj.GenerateResource.cache
+E:\Всё что можно - здесь\Программирование\Olympic_heroes\Olympic_heroes\obj\Debug\Olympic_heroes.csproj.CoreCompileInputs.cache
+E:\Всё что можно - здесь\Программирование\Olympic_heroes\Olympic_heroes\obj\Debug\Olympic_heroes.exe
+E:\Всё что можно - здесь\Программирование\Olympic_heroes\Olympic_heroes\obj\Debug\Olympic_heroes.pdb
+E:\Всё что можно - здесь\Программирование\Olympic_heroes\Olympic_heroes\bin\Debug\Olympic_heroes.exe.config
+E:\Всё что можно - здесь\Программирование\Olympic_heroes\Olympic_heroes\bin\Debug\Olympic_heroes.exe
+E:\Всё что можно - здесь\Программирование\Olympic_heroes\Olympic_heroes\bin\Debug\Olympic_heroes.pdb
+E:\Всё что можно - здесь\Программирование\Olympic_heroes\Olympic_heroes\obj\Debug\Olympic_heroes.Form4.resources
+E:\Всё что можно - здесь\Программирование\Olympic_heroes\Olympic_heroes\obj\Debug\Olympic_heroes.Form5.resources
+D:\Всё что можно - здесь\Программирование\Olympic_heroes\Olympic_heroes\bin\Debug\Olympic_heroes.exe.config
+D:\Всё что можно - здесь\Программирование\Olympic_heroes\Olympic_heroes\bin\Debug\Olympic_heroes.exe
+D:\Всё что можно - здесь\Программирование\Olympic_heroes\Olympic_heroes\bin\Debug\Olympic_heroes.pdb
+D:\Всё что можно - здесь\Программирование\Olympic_heroes\Olympic_heroes\obj\Debug\Olympic_heroes.csproj.AssemblyReference.cache
+D:\Всё что можно - здесь\Программирование\Olympic_heroes\Olympic_heroes\obj\Debug\Olympic_heroes.Form1.resources
+D:\Всё что можно - здесь\Программирование\Olympic_heroes\Olympic_heroes\obj\Debug\Olympic_heroes.Form2.resources
+D:\Всё что можно - здесь\Программирование\Olympic_heroes\Olympic_heroes\obj\Debug\Olympic_heroes.Form3.resources
+D:\Всё что можно - здесь\Программирование\Olympic_heroes\Olympic_heroes\obj\Debug\Olympic_heroes.Form4.resources
+D:\Всё что можно - здесь\Программирование\Olympic_heroes\Olympic_heroes\obj\Debug\Olympic_heroes.Form5.resources
+D:\Всё что можно - здесь\Программирование\Olympic_heroes\Olympic_heroes\obj\Debug\Olympic_heroes.Properties.Resources.resources
+D:\Всё что можно - здесь\Программирование\Olympic_heroes\Olympic_heroes\obj\Debug\Olympic_heroes.csproj.GenerateResource.cache
+D:\Всё что можно - здесь\Программирование\Olympic_heroes\Olympic_heroes\obj\Debug\Olympic_heroes.csproj.CoreCompileInputs.cache
+D:\Всё что можно - здесь\Программирование\Olympic_heroes\Olympic_heroes\obj\Debug\Olympic_heroes.exe
+D:\Всё что можно - здесь\Программирование\Olympic_heroes\Olympic_heroes\obj\Debug\Olympic_heroes.pdb
